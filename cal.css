@@ -9,6 +9,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+h1{
+    color:#000;
+}
 .con{
     display: flex;
     flex-direction: column;
